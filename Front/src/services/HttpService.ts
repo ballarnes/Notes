@@ -59,7 +59,7 @@ export default class DefaultHttpService implements HttpService {
     private async handleResponse<T>(response: Response) : Promise<ApiResponse<T>> {
         if (!response.ok) {
           const message = await response.json()
-          throw Error(message.error || i18n.t('app:error.unknown'))
+          throw Error(message.error || i18n.t('error.unknown'))
         }
         const result: ApiResponse<T>  = {
             ...response,
