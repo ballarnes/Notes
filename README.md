@@ -19,6 +19,13 @@
 2. Run ***npm install*** and wait for the end.
 3. Run ***npm start***.
 
+
+
+## How to run Cypress test
+
+1. Open terminal in **"Front"** project directory.
+2. Run ***npm run e2e-test***.
+
 ---
 
 
