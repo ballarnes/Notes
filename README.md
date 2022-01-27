@@ -24,6 +24,7 @@
 ## How to run Cypress test
 
 1. Open terminal in **"Front"** project directory.
+2. Run ***npx cypress open***. Close the cypress window when opened.
 2. Run ***npm run e2e-test***.
 
 ---
