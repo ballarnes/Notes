@@ -1,0 +1,24 @@
+{
+    "error": {
+      "unknown": "Something went wrong",
+      "input": "You must input only digit"
+    },
+    "placeholder": {
+        "title": "Title",
+        "description": "Description",
+        "author": "Author"
+      },
+    "submit": "Submit",
+    "success": "Success! Id is: {{id}}",
+    "tabs": {
+        "note": "Note",
+        "notes": "Notes list",
+        "createNote": "Create note"
+    },
+    "title": "Edit note",
+    "enterNote": "Enter note id here",
+    "titlenote": "Title",
+    "description": "Description",
+    "author": "Author",
+    "delete": "Delete"
+}
