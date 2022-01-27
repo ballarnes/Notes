@@ -1,5 +1,5 @@
 # Notes
----
+
 
 ## How to run API service
 
@@ -9,7 +9,7 @@
 2. Run ***docker-compose build --no-cache*** and wait for the end.
 3. Run ***docker-compose up***.
 
----
+
 
 ## How to run UI
 
@@ -20,6 +20,7 @@
 3. Run ***npm start***.
 
 ---
+
 
 > Help
 >
